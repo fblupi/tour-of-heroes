@@ -1,10 +1,10 @@
-import { TourOfHerouesPage } from './app.po';
+import { TourOfHeroesPage } from './app.po';
 
-describe('tour-of-heroues App', () => {
-  let page: TourOfHerouesPage;
+describe('tour-of-heroes App', () => {
+  let page: TourOfHeroesPage;
 
   beforeEach(() => {
-    page = new TourOfHerouesPage();
+    page = new TourOfHeroesPage();
   });
 
   it('should display welcome message', () => {
